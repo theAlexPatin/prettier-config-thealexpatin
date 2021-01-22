@@ -1,4 +1,4 @@
-# `prettier-config-thealexpatin`
+# `prettier-config-thealexpatin` [![](https://badge.fury.io/js/prettier-config-thealexpatin.svg)](https://npmjs.org/package/prettier-config-thealexpatin) [![](https://www.travis-ci.com/theAlexPatin/prettier-config-thealexpatin.svg?branch=master)](https://travis-ci.com/theAlexPatin/prettier-config-thealexpatin)
 
 > Alex Patin's preferred [`prettier`](https://prettier.io) configuration
 
