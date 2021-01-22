@@ -4,13 +4,13 @@
 
 ## Usage
 
-** Install **:
+**Install**:
 
 ```bash
 $ npm install -D prettier-config-thealexpatin
 ```
 
-** Create `.prettier.config.js` **
+**Create `.prettier.config.js`**
 
 ```js
 // .prettier.config.js
